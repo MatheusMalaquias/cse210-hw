@@ -12,8 +12,6 @@ class Program
         string menuInput = "";
         Journal journal = new Journal();
 
-
-
         do
         {
             Console.WriteLine("Please select one of the following choices: ");
